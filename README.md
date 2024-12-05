@@ -1,11 +1,5 @@
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>I LOVE YOU SAYANGGGKUUUU ZAHRA MEIZA</title>
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Short+Stack&amp;family=Homemade+Apple&amp;display=swap'>
-  <link rel="stylesheet" href="card.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+
 <style>
   body {
       margin: 0;
