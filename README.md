@@ -24,8 +24,7 @@
     }
 
     
-  </style>
-</head>
+ 
 <body>
   <video autoplay loop controls>
     <source src="video/gokil.mp4" type="video/mp4">
